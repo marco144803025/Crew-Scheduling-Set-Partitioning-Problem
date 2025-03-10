@@ -34,19 +34,13 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/airline-crew-scheduling.git
+git clone https://github.com/marco144803025/Crew-Scheduling-Set-Partitioning-Problem.git
 cd airline-crew-scheduling
 Install Dependencies:
 
-If using pip, install the necessary packages:
-
-bash
-Copy
-Edit
-pip install numpy matplotlib
 Prepare Your Dataset:
 
-Place your dataset (e.g., sppnw41.txt) in the project directory or specify the correct path when running the program.
+Place your dataset (e.g., sppnw41.txt) in the project directory when running the program.
 
 Usage
 Run the program using the command line and choose the desired algorithm:
@@ -68,7 +62,6 @@ Generates an initial population of binary vectors, evaluates fitness using a cos
 
 Improved BGA:
 Incorporates:
-
 Pseudo-Random Initialization: Similar to stochastic local search for the set cover problem.
 Stochastic Ranking: For constraint handling, balancing cost minimization with constraint violations.
 Heuristic Improvement: To refine solutions by dropping redundant selections and adding missing coverage.
