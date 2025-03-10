@@ -62,3 +62,9 @@ Incorporates:
 Pseudo-Random Initialization: Similar to stochastic local search for the set cover problem.
 Stochastic Ranking: For constraint handling, balancing cost minimization with constraint violations.
 Heuristic Improvement: To refine solutions by dropping redundant selections and adding missing coverage.
+
+
+Reference:
+[1] P.C. Chu, J.E. Beasley, Constraint Handling in Genetic Algorithms: The Set Partitioning Problem, Journal of Heuristics, 11: 323–357 (1998).
+
+[2] T.P. Runarsson, X. Yao Stochastic ranking for constrained evolutionary optimization, IEEE Trans. on Evolutionary Computation, 4(3): 284-294 (2000).
