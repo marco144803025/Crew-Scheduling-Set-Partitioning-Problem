@@ -6,9 +6,9 @@ Standard Binary Genetic Algorithm (BGA)
 Improved Binary Genetic Algorithm (Improved BGA)
 The improved BGA integrates advanced features:
 
-Pseudo-Random Initialization (based on Algorithm 2, p341 in [1])
-Stochastic Ranking for Constraint Handling (as described in [2])
-Heuristic Improvement Operator (based on Algorithm 1, p331 in [1])
+Pseudo-Random Initialization 
+Stochastic Ranking for Constraint Handling 
+Heuristic Improvement Operator 
 Project Overview
 The goal of this project is to efficiently cover all flights with the available crews while minimizing the overall cost. The algorithms have been designed to handle constraints such as ensuring every flight is covered exactly once. The code also plots the cost history over iterations and writes detailed results to text files.
 
