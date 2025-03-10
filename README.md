@@ -38,9 +38,6 @@ git clone https://github.com/marco144803025/Crew-Scheduling-Set-Partitioning-Pro
 cd airline-crew-scheduling
 Install Dependencies:
 
-Prepare Your Dataset:
-
-Place your dataset (e.g., sppnw41.txt) in the project directory when running the program.
 
 Usage
 Run the program using the command line and choose the desired algorithm:
